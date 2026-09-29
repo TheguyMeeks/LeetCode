@@ -27,4 +27,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/TheguyMeeks/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/TheguyMeeks/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/TheguyMeeks/LeetCode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
