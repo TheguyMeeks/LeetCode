@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/TheguyMeeks/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/TheguyMeeks/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/TheguyMeeks/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0704-binary-search](https://github.com/TheguyMeeks/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/TheguyMeeks/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/TheguyMeeks/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
