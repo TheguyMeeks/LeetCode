@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TheguyMeeks/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheguyMeeks/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0049-group-anagrams](https://github.com/TheguyMeeks/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/TheguyMeeks/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/TheguyMeeks/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheguyMeeks/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/TheguyMeeks/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/TheguyMeeks/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
@@ -76,5 +78,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/TheguyMeeks/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0704-binary-search](https://github.com/TheguyMeeks/LeetCode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
