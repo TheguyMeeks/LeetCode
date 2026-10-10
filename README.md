@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/TheguyMeeks/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/TheguyMeeks/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/TheguyMeeks/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/TheguyMeeks/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/TheguyMeeks/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0704-binary-search](https://github.com/TheguyMeeks/LeetCode/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
@@ -80,4 +81,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TheguyMeeks/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0704-binary-search](https://github.com/TheguyMeeks/LeetCode/tree/main/0704-binary-search/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/TheguyMeeks/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
