@@ -7,15 +7,13 @@ class Solution:
         b = len(numbers) - 1
 
         while a < b:
-            if numbers[a] + numbers[b] == target:
+            s = numbers[a] + numbers[b]
+            if s == target:
                 return [a + 1, b + 1] # relabel
-            
-            if numbers[a] + numbers[b] > target:
+            elif s > target:
                 b -= 1
-
-            if numbers[a] + numbers[b] < target:
+            else:
                 a += 1
 
-        return -1
 
         
