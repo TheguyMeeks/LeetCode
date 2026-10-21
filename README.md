@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/TheguyMeeks/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/TheguyMeeks/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/TheguyMeeks/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0125-valid-palindrome](https://github.com/TheguyMeeks/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/TheguyMeeks/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -97,4 +98,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/TheguyMeeks/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/TheguyMeeks/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
