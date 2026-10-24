@@ -1,10 +1,12 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        pairs = {}
+        pairs = {} 
 
         for index, num in enumerate(nums):
-            if target - num in pairs:
-                return[index, pairs[target - num]]
+            complement = target - num
+
+            if complement in pairs:
+                return [index, pairs[complement]]
             
             pairs[num] = index
 
