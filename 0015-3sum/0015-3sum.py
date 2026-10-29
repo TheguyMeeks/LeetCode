@@ -18,12 +18,15 @@ class Solution:
         rt = len(nums) - 1
 
         while fixed < len(nums) - 2:
+            # all numbers to the right of the fixed number are at least as big as the fixed number. if the fixed number positive, everything after is a positive number, and we'd essentially be asking our two pointers to find two positive values to add up to a negative fixed number, which is impossible. we can break here instead of continuing, because once we come across that first positive fixed value, everything to it's right is also positive, and will have the problem as this positive fixed value, so there's no point in checking them either
+            if nums[fixed] > 0:
+                break
+            target = -1 * nums[fixed]
             while lt < rt:
                 val_l = nums[lt]
                 val_r = nums[rt]
 
                 s = val_l + val_r
-                target = -1 * nums[fixed]
 
                 # if fixed + val + val = 0 then val + val = -fixed. same as two sum with a target
 
