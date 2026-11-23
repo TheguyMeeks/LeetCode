@@ -3,7 +3,7 @@ class Solution:
         if len(t) != len(s):
             return False
 
-        counter = {} # character : amount of times it shows up
+        counter = {}
 
         for char in s:
             counter[char] = counter.get(char, 0) + 1
